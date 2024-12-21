@@ -1,1 +1,1 @@
-print("Tutorial de git") 
+print("New tutorial de git") 
